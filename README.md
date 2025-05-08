@@ -1,6 +1,6 @@
 # Aditya'a Financial Calculator
 
-**Live App**: [https://advance-financial-calculator.onrender.com](https://advance-financial-calculator.onrender.com)  
+**Live App**: [https://advance-financial-calculator.onrender.com](https://advance-financial-calculator.onrender.com)
 **Deployed on**: Render (Free Tier)
 
 
